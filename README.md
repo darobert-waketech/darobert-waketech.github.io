@@ -4,4 +4,4 @@ Dalton Robert - darobert@my.waketech.edu
 
 This is my school account
 
-This repository will hold my assignments
+This repository will hold my assignments and projects
